@@ -217,7 +217,7 @@
     <profile>
         <id>openshift</id>
         <build>
-            <finalName>{APP_NAME}</finalName>
+            <finalName>collection-pro</finalName>
             <plugins>
                 <plugin>
                     <artifactId>maven-war-plugin</artifactId>
